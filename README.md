@@ -2,7 +2,7 @@
 
 The phonotactics database contains vowel and consonant frequency patterns in singing. 
 
-This repository is for pulling, formatting, validating and cleaning the Instruments dataset.
+This repository is for pulling, formatting, validating and cleaning the phonotactics dataset.
 
 Data is presented in three data tables within raw/
 
