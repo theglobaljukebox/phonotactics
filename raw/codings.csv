@@ -1,0 +1,323 @@
+SORT,VarID,VarTitle,VarDefinition,VarCategory,VarType,Source,UserNotes,VarID_Code,Count,Code,CodeDescription,ShortName
+1,V1,Ratio - High Front,The ratio of high front vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,1_NA,0,NA,Missing data,Missing data
+2,,,,,,,,1_1,32,1,Absence of high front vowels.,0%
+3,,,,,,,,1_2,29,2,From one clear instance to 5 percent high front vowels.,5%
+4,,,,,,,,1_3,136,3,From 10 to 15 percent high front vowels.,10-15%
+5,,,,,,,,1_4,103,4,From 20 to 25 percent high front vowels.,20-25%
+6,,,,,,,,1_5,24,5,From 30 to 35 percent high front vowels.,30-35%
+7,,,,,,,,1_6,6,6,From 40 to 50 percent high front vowels.,40-50%
+8,,,,,,,,1_7,8,7,55 percent high front vowels or higher.,55% plus
+9,V2,Ratio - High Central,The ratio of high central vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,2_NA,0,NA,Missing data,Missing data
+10,,,,,,,,2_1,271,1,Absence of high central vowels.,0%
+11,,,,,,,,2_2,60,2,From one clear instance to 5 percent high central vowels.,5%
+12,,,,,,,,2_3,6,3,From 10 to 15 percent high central vowels.,10-15%
+13,,,,,,,,2_4,1,4,From 20 to 25 percent high central vowels.,20-25%
+14,,,,,,,,2_5,0,5,From 30 to 35 percent high central vowels.,30-35%
+15,,,,,,,,2_6,0,6,From 40 to 50 percent high central vowels.,40-50%
+16,,,,,,,,2_7,0,7,55 percent high central vowels or higher.,55% plus
+17,V3,Ratio - High Back,The ratio of high back vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,3_NA,0,NA,Missing data,Missing data
+18,,,,,,,,3_1,85,1,Absence of high back vowels.,0%
+19,,,,,,,,3_2,50,2,From one clear instance to 5 percent high back vowels.,5%
+20,,,,,,,,3_3,140,3,From 10 to 15 percent high back vowels.,10-15%
+21,,,,,,,,3_4,46,4,From 20 to 25 percent high back vowels.,20-25%
+22,,,,,,,,3_5,6,5,From 30 to 35 percent high back vowels.,30-35%
+23,,,,,,,,3_6,7,6,From 40 to 50 percent high back vowels.,40-50%
+24,,,,,,,,3_7,4,7,55 percent high back vowels or higher.,55% plus
+25,V4,Ratio - Mid Front,The ratio of mid front vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,4_NA,0,NA,Missing data,Missing data
+26,,,,,,,,4_1,20,1,Absence of mid front vowels.,0%
+27,,,,,,,,4_2,13,2,From one clear instance to 5 percent mid front vowels.,5%
+28,,,,,,,,4_3,90,3,From 10 to 15 percent mid front vowels.,10-15%
+29,,,,,,,,4_4,118,4,From 20 to 25 percent mid front vowels.,20-25%
+30,,,,,,,,4_5,67,5,From 30 to 35 percent mid front vowels.,30-35%
+31,,,,,,,,4_6,22,6,From 40 to 50 percent mid front vowels.,40-50%
+32,,,,,,,,4_7,8,7,55 percent mid front vowels or higher.,55% plus
+33,V5,Ratio - Mid Central,The ratio of mid central vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,5_NA,0,NA,Missing data,Missing data
+34,,,,,,,,5_1,124,1,Absence of mid central vowels.,0%
+35,,,,,,,,5_2,63,2,From one clear instance to 5 percent mid central vowels.,5%
+36,,,,,,,,5_3,111,3,From 10 to 15 percent mid central vowels.,10-15%
+37,,,,,,,,5_4,20,4,From 20 to 25 percent mid central vowels.,20-25%
+38,,,,,,,,5_5,11,5,From 30 to 35 percent mid central vowels.,30-35%
+39,,,,,,,,5_6,7,6,From 40 to 50 percent mid central vowels.,40-50%
+40,,,,,,,,5_7,2,7,55 percent mid central vowels or higher.,55% plus
+41,V6,Ratio - Mid Back,The ratio of mid back vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,6_NA,0,NA,Missing data,Missing data
+42,,,,,,,,6_1,38,1,Absence of mid back vowels.,0%
+43,,,,,,,,6_2,30,2,From one clear instance to 5 percent mid back vowels.,5%
+44,,,,,,,,6_3,152,3,From 10 to 15 percent mid back vowels.,10-15%
+45,,,,,,,,6_4,77,4,From 20 to 25 percent mid back vowels.,20-25%
+46,,,,,,,,6_5,25,5,From 30 to 35 percent mid back vowels.,30-35%
+47,,,,,,,,6_6,13,6,From 40 to 50 percent mid back vowels.,40-50%
+48,,,,,,,,6_7,3,7,55 percent mid back vowels or higher.,55% plus
+49,V7,Ratio - Low Front,The ratio of low front vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,7_NA,0,NA,Missing data,Missing data
+50,,,,,,,,7_1,176,1,Absence of low front vowels.,0%
+51,,,,,,,,7_2,21,2,From one clear instance to 5 percent low front vowels.,5%
+52,,,,,,,,7_3,63,3,From 10 to 15 percent low front vowels.,10-15%
+53,,,,,,,,7_4,39,4,From 20 to 25 percent low front vowels.,20-25%
+54,,,,,,,,7_5,23,5,From 30 to 35 percent low front vowels.,30-35%
+55,,,,,,,,7_6,14,6,From 40 to 50 percent low front vowels.,40-50%
+56,,,,,,,,7_7,2,7,55 percent low front vowels or higher.,55% plus
+57,V8,Ratio - Low Central,The ratio of low central vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,8_NA,0,NA,Missing data,Missing data
+58,,,,,,,,8_1,53,1,Absence of low central vowels.,0%
+59,,,,,,,,8_2,15,2,From one clear instance to 5 percent low central vowels.,5%
+60,,,,,,,,8_3,84,3,From 10 to 15 percent low central vowels.,10-15%
+61,,,,,,,,8_4,78,4,From 20 to 25 percent low central vowels.,20-25%
+62,,,,,,,,8_5,45,5,From 30 to 35 percent low central vowels.,30-35%
+63,,,,,,,,8_6,43,6,From 40 to 50 percent low central vowels.,40-50%
+64,,,,,,,,8_7,20,7,55 percent low central vowels or higher.,55% plus
+65,V9,Ratio - Low Back,The ratio of low back vowels compared to the total number of vowels in the song.,Vowel Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),See Guide to Coding Phonotactics (Wood 2021) for explanations of height and backness in defining vowel areas.,9_NA,0,NA,Missing data,Missing data
+66,,,,,,,,9_1,265,1,Absence of low back vowels.,0%
+67,,,,,,,,9_2,25,2,From one clear instance to 5 percent low back vowels.,5%
+68,,,,,,,,9_3,36,3,From 10 to 15 percent low back vowels.,10-15%
+69,,,,,,,,9_4,9,4,From 20 to 25 percent low back vowels.,20-25%
+70,,,,,,,,9_5,0,5,From 30 to 35 percent low back vowels.,30-35%
+71,,,,,,,,9_6,2,6,From 40 to 50 percent low back vowels.,40-50%
+72,,,,,,,,9_7,1,7,55 percent low back vowels or higher.,55% plus
+73,V10,Axis - High Front - Mid Front,"The prevalence of oscillations between high front and mid front vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",10_NA,43,NA,Missing data,Missing data
+74,,,,,,,,10_1,243,1,High front - Mid front vowel axes are absent.,Absent
+75,,,,,,,,10_2,15,2,High front - Mid front vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+76,,,,,,,,10_3,19,3,High front - Mid front vowel axes are the second most prominent vowel axis type.,Secondary Axis
+77,,,,,,,,10_4,18,4,High front - Mid front vowel axes are the most prominent vowel axis type.,Primary Axis
+78,V11,Axis - Mid Front - Low Front,"The prevalence of oscillations between mid front and low front vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",11_NA,177,NA,Missing data,Missing data
+79,,,,,,,,11_1,101,1,Mid front - Low front vowel axes are absent.,Absent
+80,,,,,,,,11_2,17,2,Mid front - Low front vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+81,,,,,,,,11_3,19,3,Mid front - Low front vowel axes are the second most prominent vowel axis type.,Secondary Axis
+82,,,,,,,,11_4,24,4,Mid front - Low front vowel axes are the most prominent vowel axis type.,Primary Axis
+83,V12,Axis - High Front - Low Front,"The prevalence of oscillations between high front and low front vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",12_NA,186,NA,Missing data,Missing data
+84,,,,,,,,12_1,114,1,High front - Low front vowel axes are absent.,Absent
+85,,,,,,,,12_2,4,2,High front - Low front vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+86,,,,,,,,12_3,8,3,High front - Low front vowel axes are the second most prominent vowel axis type.,Secondary Axis
+87,,,,,,,,12_4,26,4,High front - Low front vowel axes are the most prominent vowel axis type.,Primary Axis
+88,V13,Axis - High Front - High Back,"The prevalence of oscillations between high front and high back vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",13_NA,95,NA,Missing data,Missing data
+89,,,,,,,,13_1,219,1,High front - High back vowel axes are absent.,Absent
+90,,,,,,,,13_2,4,2,High front - High back vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+91,,,,,,,,13_3,12,3,High front - High back vowel axes are the second most prominent vowel axis type.,Secondary Axis
+92,,,,,,,,13_4,8,4,High front - High back vowel axes are the most prominent vowel axis type.,Primary Axis
+93,V14,Axis - High Back - Mid Front,"The prevalence of oscillations between high back and mid front vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",14_NA,94,NA,Missing data,Missing data
+94,,,,,,,,14_1,216,1,High back - Mid front vowel axes are absent.,Absent
+95,,,,,,,,14_2,11,2,High back - Mid front vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+96,,,,,,,,14_3,12,3,High back - Mid front vowel axes are the second most prominent vowel axis type.,Secondary Axis
+97,,,,,,,,14_4,5,4,High back - Mid front vowel axes are the most prominent vowel axis type.,Primary Axis
+98,V15,Axis - High Back - Low Front,"The prevalence of oscillations between high back and low front vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",15_NA,200,NA,Missing data,Missing data
+99,,,,,,,,15_1,120,1,High back - Low front vowel axes are absent.,Absent
+100,,,,,,,,15_2,4,2,High back - Low front vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+101,,,,,,,,15_3,7,3,High back - Low front vowel axes are the second most prominent vowel axis type.,Secondary Axis
+102,,,,,,,,15_4,7,4,High back - Low front vowel axes are the most prominent vowel axis type.,Primary Axis
+103,V16,Axis - High Back - Low Central,"The prevalence of oscillations between high back and low central vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",16_NA,120,NA,Missing data,Missing data
+104,,,,,,,,16_1,163,1,High back - Low central vowel axes are absent.,Absent
+105,,,,,,,,16_2,16,2,High back - Low central vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+106,,,,,,,,16_3,16,3,High back - Low central vowel axes are the second most prominent vowel axis type.,Secondary Axis
+107,,,,,,,,16_4,23,4,High back - Low central vowel axes are the most prominent vowel axis type.,Primary Axis
+108,V17,Axis - High Back - Mid Back,"The prevalence of oscillations between high back and mid back vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",17_NA,103,NA,Missing data,Missing data
+109,,,,,,,,17_1,210,1,High back - Mid back vowel axes are absent.,Absent
+110,,,,,,,,17_2,6,2,High back - Mid back vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+111,,,,,,,,17_3,9,3,High back - Mid back vowel axes are the second most prominent vowel axis type.,Secondary Axis
+112,,,,,,,,17_4,10,4,High back - Mid back vowel axes are the most prominent vowel axis type.,Primary Axis
+113,V18,Axis - High Front - Mid Back,"The prevalence of oscillations between high front and mid back vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",18_NA,55,NA,Missing data,Missing data
+114,,,,,,,,18_1,243,1,High front - Mid back vowel axes are absent.,Absent
+115,,,,,,,,18_2,15,2,High front - Mid back vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+116,,,,,,,,18_3,10,3,High front - Mid back vowel axes are the second most prominent vowel axis type.,Secondary Axis
+117,,,,,,,,18_4,15,4,High front - Mid back vowel axes are the most prominent vowel axis type.,Primary Axis
+118,V19,Axis - Mid Front - Mid Back,"The prevalence of oscillations between mid front and mid back vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",19_NA,49,NA,Missing data,Missing data
+119,,,,,,,,19_1,204,1,Mid front - Mid back vowel axes are absent.,Absent
+120,,,,,,,,19_2,30,2,Mid front - Mid back vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+121,,,,,,,,19_3,30,3,Mid front - Mid back vowel axes are the second most prominent vowel axis type.,Secondary Axis
+122,,,,,,,,19_4,25,4,Mid front - Mid back vowel axes are the most prominent vowel axis type.,Primary Axis
+123,V20,Axis - Mid Back - Low Front,"The prevalence of oscillations between mid back and low front vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",20_NA,188,NA,Missing data,Missing data
+124,,,,,,,,20_1,129,1,Mid back - Low front vowel axes are absent.,Absent
+125,,,,,,,,20_2,5,2,Mid back - Low front vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+126,,,,,,,,20_3,8,3,Mid back - Low front vowel axes are the second most prominent vowel axis type.,Secondary Axis
+127,,,,,,,,20_4,8,4,Mid back - Low front vowel axes are the most prominent vowel axis type.,Primary Axis
+128,V21,Axis - Mid Back - Low Central,"The prevalence of oscillations between mid back and low central vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",21_NA,78,NA,Missing data,Missing data
+129,,,,,,,,21_1,212,1,Mid back - Low central vowel axes are absent.,Absent
+130,,,,,,,,21_2,14,2,Mid back - Low central vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+131,,,,,,,,21_3,23,3,Mid back - Low central vowel axes are the second most prominent vowel axis type.,Secondary Axis
+132,,,,,,,,21_4,11,4,Mid back - Low central vowel axes are the most prominent vowel axis type.,Primary Axis
+133,V22,Axis - High Front - Low Back,"The prevalence of oscillations between high front and low back vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",22_NA,272,NA,Missing data,Missing data
+134,,,,,,,,22_1,59,1,High front - Low back vowel axes are absent.,Absent
+135,,,,,,,,22_2,2,2,High front - Low back vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+136,,,,,,,,22_3,5,3,High front - Low back vowel axes are the second most prominent vowel axis type.,Secondary Axis
+137,,,,,,,,22_4,0,4,High front - Low back vowel axes are the most prominent vowel axis type.,Primary Axis
+138,V23,Axis - Mid Central - Low Central,"The prevalence of oscillations between mid central and low central vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",23_NA,147,NA,Missing data,Missing data
+139,,,,,,,,23_1,176,1,Mid central - Low central vowel axes are absent.,Absent
+140,,,,,,,,23_2,3,2,Mid central - Low central vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+141,,,,,,,,23_3,6,3,Mid central - Low central vowel axes are the second most prominent vowel axis type.,Secondary Axis
+142,,,,,,,,23_4,6,4,Mid central - Low central vowel axes are the most prominent vowel axis type.,Primary Axis
+143,V24,Axis - High Front - Low Central,"The prevalence of oscillations between high front and low central vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",24_NA,73,NA,Missing data,Missing data
+144,,,,,,,,24_1,146,1,High front - Low central vowel axes are absent.,Absent
+145,,,,,,,,24_2,18,2,High front - Low central vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+146,,,,,,,,24_3,37,3,High front - Low central vowel axes are the second most prominent vowel axis type.,Secondary Axis
+147,,,,,,,,24_4,64,4,High front - Low central vowel axes are the most prominent vowel axis type.,Primary Axis
+148,V25,Axis - Mid Front - Low Central,"The prevalence of oscillations between mid front and low central vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",25_NA,68,NA,Missing data,Missing data
+149,,,,,,,,25_1,148,1,Mid front - Low central vowel axes are absent.,Absent
+150,,,,,,,,25_2,25,2,Mid front - Low central vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+151,,,,,,,,25_3,37,3,Mid front - Low central vowel axes are the second most prominent vowel axis type.,Secondary Axis
+152,,,,,,,,25_4,60,4,Mid front - Low central vowel axes are the most prominent vowel axis type.,Primary Axis
+153,V26,Axis - Mid Central - Low Front,"The prevalence of oscillations between mid central and low front vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",26_NA,217,NA,Missing data,Missing data
+154,,,,,,,,26_1,103,1,Mid central - Low front vowel axes are absent.,Absent
+155,,,,,,,,26_2,8,2,Mid central - Low front vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+156,,,,,,,,26_3,6,3,Mid central - Low front vowel axes are the second most prominent vowel axis type.,Secondary Axis
+157,,,,,,,,26_4,4,4,Mid central - Low front vowel axes are the most prominent vowel axis type.,Primary Axis
+158,V27,Axis - Mid Front - Mid Central,"The prevalence of oscillations between mid front and mid central vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",27_NA,132,NA,Missing data,Missing data
+159,,,,,,,,27_1,178,1,Mid front - Mid central vowel axes are absent.,Absent
+160,,,,,,,,27_2,7,2,Mid front - Mid central vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+161,,,,,,,,27_3,12,3,Mid front - Mid central vowel axes are the second most prominent vowel axis type.,Secondary Axis
+162,,,,,,,,27_4,9,4,Mid front - Mid central vowel axes are the most prominent vowel axis type.,Primary Axis
+163,V28,Axis - High Front - Mid Central,"The prevalence of oscillations between high front and mid central vowels, with or without an intervening consonant.",Vowel Axes,,Lomax and Trager (1961-2); Wood (2021),"If there are multiple axes of equal prominence, the same category may be coded multiple times on the appropriate variables. In other words, it is not required that the coder choose only one primary axis, one secondary axis, and one tertiary axis, if there are multiple axes that apply. If there are less than three axes in the song, the coder need not code for a tertiary axis.",28_NA,144,NA,Missing data,Missing data
+164,,,,,,,,28_1,179,1,High front - Mid central vowel axes are absent.,Absent
+165,,,,,,,,28_2,5,2,High front - Mid central vowel axes are the third most prominent vowel axis type.,Tertiary Axis
+166,,,,,,,,28_3,5,3,High front - Mid central vowel axes are the second most prominent vowel axis type.,Secondary Axis
+167,,,,,,,,28_4,5,4,High front - Mid central vowel axes are the most prominent vowel axis type.,Primary Axis
+168,V29,Prolongation - High Front,The prominence of prolonged high front vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",29_NA,32,NA,Missing data,Missing data
+169,,,,,,,,29_1,224,1,Prolongations of high front vowels are absent.,Absent
+170,,,,,,,,29_2,21,2,Prolongations of high front vowels are the third most prominent type of prolongation.,Tertiary
+171,,,,,,,,29_3,20,3,Prolongations of high front vowels are the second most prominent type of prolongation.,Secondary
+172,,,,,,,,29_4,41,4,Prolongations of high front vowels are the most prominent type of prolongation.,Primary
+173,V30,Prolongation - High Central,The prominence of prolonged high central vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",30_NA,272,NA,Missing data,Missing data
+174,,,,,,,,30_1,63,1,Prolongations of high central vowels are absent.,Absent
+175,,,,,,,,30_2,1,2,Prolongations of high central vowels are the third most prominent type of prolongation.,Tertiary
+176,,,,,,,,30_3,1,3,Prolongations of high central vowels are the second most prominent type of prolongation.,Secondary
+177,,,,,,,,30_4,1,4,Prolongations of high central vowels are the most prominent type of prolongation.,Primary
+178,V31,Prolongation - High Back,The prominence of prolonged high back vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",31_NA,85,NA,Missing data,Missing data
+179,,,,,,,,31_1,208,1,Prolongations of high back vowels are absent.,Absent
+180,,,,,,,,31_2,12,2,Prolongations of high back vowels are the third most prominent type of prolongation.,Tertiary
+181,,,,,,,,31_3,14,3,Prolongations of high back vowels are the second most prominent type of prolongation.,Secondary
+182,,,,,,,,31_4,19,4,Prolongations of high back vowels are the most prominent type of prolongation.,Primary
+183,V32,Prolongation - Mid Front,The prominence of prolonged mid front vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",32_NA,20,NA,Missing data,Missing data
+184,,,,,,,,32_1,80,1,Prolongations of mid front vowels are absent.,Absent
+185,,,,,,,,32_2,29,2,Prolongations of mid front vowels are the third most prominent type of prolongation.,Tertiary
+186,,,,,,,,32_3,84,3,Prolongations of mid front vowels are the second most prominent type of prolongation.,Secondary
+187,,,,,,,,32_4,125,4,Prolongations of mid front vowels are the most prominent type of prolongation.,Primary
+188,V33,Prolongation - Mid Central,The prominence of prolonged mid central vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",33_NA,124,NA,Missing data,Missing data
+189,,,,,,,,33_1,138,1,Prolongations of mid central vowels are absent.,Absent
+190,,,,,,,,33_2,20,2,Prolongations of mid central vowels are the third most prominent type of prolongation.,Tertiary
+191,,,,,,,,33_3,28,3,Prolongations of mid central vowels are the second most prominent type of prolongation.,Secondary
+192,,,,,,,,33_4,28,4,Prolongations of mid central vowels are the most prominent type of prolongation.,Primary
+193,V34,Prolongation - Mid Back,The prominence of prolonged mid back vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",34_NA,38,NA,Missing data,Missing data
+194,,,,,,,,34_1,153,1,Prolongations of mid back vowels are absent.,Absent
+195,,,,,,,,34_2,43,2,Prolongations of mid back vowels are the third most prominent type of prolongation.,Tertiary
+196,,,,,,,,34_3,52,3,Prolongations of mid back vowels are the second most prominent type of prolongation.,Secondary
+197,,,,,,,,34_4,52,4,Prolongations of mid back vowels are the most prominent type of prolongation.,Primary
+198,V35,Prolongation - Low Front,The prominence of prolonged low front vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",35_NA,176,NA,Missing data,Missing data
+199,,,,,,,,35_1,81,1,Prolongations of low front vowels are absent.,Absent
+200,,,,,,,,35_2,15,2,Prolongations of low front vowels are the third most prominent type of prolongation.,Tertiary
+201,,,,,,,,35_3,25,3,Prolongations of low front vowels are the second most prominent type of prolongation.,Secondary
+202,,,,,,,,35_4,41,4,Prolongations of low front vowels are the most prominent type of prolongation.,Primary
+203,V36,Prolongation - Low Central,The prominence of prolonged low central vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",36_NA,52,NA,Missing data,Missing data
+204,,,,,,,,36_1,116,1,Prolongations of low central vowels are absent.,Absent
+205,,,,,,,,36_2,13,2,Prolongations of low central vowels are the third most prominent type of prolongation.,Tertiary
+206,,,,,,,,36_3,51,3,Prolongations of low central vowels are the second most prominent type of prolongation.,Secondary
+207,,,,,,,,36_4,106,4,Prolongations of low central vowels are the most prominent type of prolongation.,Primary
+208,V37,Prolongation - Low Back,The prominence of prolonged low back vowels in the song.,Vowel Prolongation,,Lomax and Trager (1961-2); Wood (2021),"This judgment may consider both the vowel areas with the longest prolongations, and the vowel areas that are prolonged most frequently. If these two measures yield very different results, both may be coded. If there are multiple prolonged vowels of equal prominence, the same category may be coded multiple times on the appropriate variables.",37_NA,265,NA,Missing data,Missing data
+209,,,,,,,,37_1,49,1,Prolongations of low back vowels are absent.,Absent
+210,,,,,,,,37_2,4,2,Prolongations of low back vowels are the third most prominent type of prolongation.,Tertiary
+211,,,,,,,,37_3,10,3,Prolongations of low back vowels are the second most prominent type of prolongation.,Secondary
+212,,,,,,,,37_4,10,4,Prolongations of low back vowels are the most prominent type of prolongation.,Primary
+213,V38,Ratio - Front Front Stop,The ratio of front front stop consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",38_NA,0,NA,Missing data,Missing data
+214,,,,,,,,38_1,86,1,Absence of front front stop consonants.,0%
+215,,,,,,,,38_2,81,2,From one clear instance to 5 percent front front stop consonants.,5%
+216,,,,,,,,38_3,144,3,From 10 to 15 percent front front stop consonants.,10-15%
+217,,,,,,,,38_4,24,4,From 20 to 25 percent front front stop consonants.,20-25%
+218,,,,,,,,38_5,2,5,From 30 to 35 percent front front stop consonants.,30-35%
+219,,,,,,,,38_6,1,6,From 40 to 50 percent front front stop consonants.,40-50%
+220,,,,,,,,38_7,0,7,55 percent front front stop consonants or higher.,55% plus
+221,V39,Ratio - Front Front Fricative,The ratio of front front fricative consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",39_NA,0,NA,Missing data,Missing data
+222,,,,,,,,39_1,195,1,Absence of front front fricative consonants.,0%
+223,,,,,,,,39_2,77,2,From one clear instance to 5 percent front front fricative consonants.,5%
+224,,,,,,,,39_3,53,3,From 10 to 15 percent front front fricative consonants.,10-15%
+225,,,,,,,,39_4,5,4,From 20 to 25 percent front front fricative consonants.,20-25%
+226,,,,,,,,39_5,6,5,From 30 to 35 percent front front fricative consonants.,30-35%
+227,,,,,,,,39_6,2,6,From 40 to 50 percent front front fricative consonants.,40-50%
+228,,,,,,,,39_7,0,7,55 percent front front fricative consonants or higher.,55% plus
+229,V40,Ratio - Front Front Nasal,The ratio of front front nasal consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",40_NA,0,NA,Missing data,Missing data
+230,,,,,,,,40_1,77,1,Absence of front front nasal consonants.,0%
+231,,,,,,,,40_2,60,2,From one clear instance to 5 percent front front nasal consonants.,5%
+232,,,,,,,,40_3,177,3,From 10 to 15 percent front front nasal consonants.,10-15%
+233,,,,,,,,40_4,17,4,From 20 to 25 percent front front nasal consonants.,20-25%
+234,,,,,,,,40_5,4,5,From 30 to 35 percent front front nasal consonants.,30-35%
+235,,,,,,,,40_6,2,6,From 40 to 50 percent front front nasal consonants.,40-50%
+236,,,,,,,,40_7,1,7,55 percent front front nasal consonants or higher.,55% plus
+237,V41,Ratio - Mid Front Fricative,The ratio of mid front fricative consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",41_NA,0,NA,Missing data,Missing data
+238,,,,,,,,41_1,292,1,Absence of mid front fricative consonants.,0%
+239,,,,,,,,41_2,45,2,From one clear instance to 5 percent mid front fricative consonants.,5%
+240,,,,,,,,41_3,1,3,From 10 to 15 percent mid front fricative consonants.,10-15%
+241,,,,,,,,41_4,0,4,From 20 to 25 percent mid front fricative consonants.,20-25%
+242,,,,,,,,41_5,0,5,From 30 to 35 percent mid front fricative consonants.,30-35%
+243,,,,,,,,41_6,0,6,From 40 to 50 percent mid front fricative consonants.,40-50%
+244,,,,,,,,41_7,0,7,55 percent mid front fricative consonants or higher.,55% plus
+245,V42,Ratio - Mid Mid Stop,The ratio of mid mid stop consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",42_NA,0,NA,Missing data,Missing data
+246,,,,,,,,42_1,61,1,Absence of mid mid stop consonants.,0%
+247,,,,,,,,42_2,25,2,From one clear instance to 5 percent mid mid stop consonants.,5%
+248,,,,,,,,42_3,181,3,From 10 to 15 percent mid mid stop consonants.,10-15%
+249,,,,,,,,42_4,58,4,From 20 to 25 percent mid mid stop consonants.,20-25%
+250,,,,,,,,42_5,9,5,From 30 to 35 percent mid mid stop consonants.,30-35%
+251,,,,,,,,42_6,4,6,From 40 to 50 percent mid mid stop consonants.,40-50%
+252,,,,,,,,42_7,0,7,55 percent mid mid stop consonants or higher.,55% plus
+253,V43,Ratio - Mid Mid Fricative,The ratio of mid mid fricative consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",43_NA,0,NA,Missing data,Missing data
+254,,,,,,,,43_1,110,1,Absence of mid mid fricative consonants.,0%
+255,,,,,,,,43_2,72,2,From one clear instance to 5 percent mid mid fricative consonants.,5%
+256,,,,,,,,43_3,132,3,From 10 to 15 percent mid mid fricative consonants.,10-15%
+257,,,,,,,,43_4,23,4,From 20 to 25 percent mid mid fricative consonants.,20-25%
+258,,,,,,,,43_5,1,5,From 30 to 35 percent mid mid fricative consonants.,30-35%
+259,,,,,,,,43_6,0,6,From 40 to 50 percent mid mid fricative consonants.,40-50%
+260,,,,,,,,43_7,0,7,55 percent mid mid fricative consonants or higher.,55% plus
+261,V44,Ratio - Mid Mid Nasal,The ratio of mid mid nasal consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",44_NA,0,NA,Missing data,Missing data
+262,,,,,,,,44_1,57,1,Absence of mid mid nasal consonants.,0%
+263,,,,,,,,44_2,68,2,From one clear instance to 5 percent mid mid nasal consonants.,5%
+264,,,,,,,,44_3,163,3,From 10 to 15 percent mid mid nasal consonants.,10-15%
+265,,,,,,,,44_4,38,4,From 20 to 25 percent mid mid nasal consonants.,20-25%
+266,,,,,,,,44_5,7,5,From 30 to 35 percent mid mid nasal consonants.,30-35%
+267,,,,,,,,44_6,3,6,From 40 to 50 percent mid mid nasal consonants.,40-50%
+268,,,,,,,,44_7,2,7,55 percent mid mid nasal consonants or higher.,55% plus
+269,V45,Ratio - Mid Mid Lateral,The ratio of mid mid lateral consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",45_NA,0,NA,Missing data,Missing data
+270,,,,,,,,45_1,77,1,Absence of mid mid lateral consonants.,0%
+271,,,,,,,,45_2,32,2,From one clear instance to 5 percent mid mid lateral consonants.,5%
+272,,,,,,,,45_3,145,3,From 10 to 15 percent mid mid lateral consonants.,10-15%
+273,,,,,,,,45_4,54,4,From 20 to 25 percent mid mid lateral consonants.,20-25%
+274,,,,,,,,45_5,16,5,From 30 to 35 percent mid mid lateral consonants.,30-35%
+275,,,,,,,,45_6,9,6,From 40 to 50 percent mid mid lateral consonants.,40-50%
+276,,,,,,,,45_7,5,7,55 percent mid mid lateral consonants or higher.,55% plus
+277,V46,Ratio - Back Back Stop,The ratio of back back stop consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",46_NA,0,NA,Missing data,Missing data
+278,,,,,,,,46_1,40,1,Absence of back back stop consonants.,0%
+279,,,,,,,,46_2,47,2,From one clear instance to 5 percent back back stop consonants.,5%
+280,,,,,,,,46_3,172,3,From 10 to 15 percent back back stop consonants.,10-15%
+281,,,,,,,,46_4,53,4,From 20 to 25 percent back back stop consonants.,20-25%
+282,,,,,,,,46_5,12,5,From 30 to 35 percent back back stop consonants.,30-35%
+283,,,,,,,,46_6,9,6,From 40 to 50 percent back back stop consonants.,40-50%
+284,,,,,,,,46_7,5,7,55 percent back back stop consonants or higher.,55% plus
+285,V47,Ratio - Back Back Fricative,The ratio of back back fricative consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",47_NA,0,NA,Missing data,Missing data
+286,,,,,,,,47_1,80,1,Absence of back back fricative consonants.,0%
+287,,,,,,,,47_2,86,2,From one clear instance to 5 percent back back fricative consonants.,5%
+288,,,,,,,,47_3,74,3,From 10 to 15 percent back back fricative consonants.,10-15%
+289,,,,,,,,47_4,29,4,From 20 to 25 percent back back fricative consonants.,20-25%
+290,,,,,,,,47_5,9,5,From 30 to 35 percent back back fricative consonants.,30-35%
+291,,,,,,,,47_6,15,6,From 40 to 50 percent back back fricative consonants.,40-50%
+292,,,,,,,,47_7,45,7,55 percent back back fricative consonants or higher.,55% plus
+293,V48,Ratio - Back Back Nasal,The ratio of back back nasal consonants compared to the total number of consonants in the song.,Consonant Frequency Ratios,Ordinal,Lomax and Trager (1961-2); Wood (2021),"See Guide to Coding Phonotactics (Wood 2021) for explanations of articulators, points of articulation, and manners of articulation in defining consonant areas.",48_NA,0,NA,Missing data,Missing data
+294,,,,,,,,48_1,192,1,Absence of back back nasal consonants.,0%
+295,,,,,,,,48_2,94,2,From one clear instance to 5 percent back back nasal consonants.,5%
+296,,,,,,,,48_3,45,3,From 10 to 15 percent back back nasal consonants.,10-15%
+297,,,,,,,,48_4,7,4,From 20 to 25 percent back back nasal consonants.,20-25%
+298,,,,,,,,48_5,0,5,From 30 to 35 percent back back nasal consonants.,30-35%
+299,,,,,,,,48_6,0,6,From 40 to 50 percent back back nasal consonants.,40-50%
+300,,,,,,,,48_7,0,7,55 percent back back nasal consonants or higher.,55% plus
+301,V49,Total Vowels,The total number of vowel areas in the song.,Vowel-Consonant Relationship,Ordinal,Lomax and Trager (1961-2); Wood (2021),,49_NA,0,NA,Missing data,Missing data
+302,,,,,,,,49_1,0,1,1 vowel area,1
+303,,,,,,,,49_2,31,2,2-3 vowel areas,2-3
+304,,,,,,,,49_3,30,3,4 vowel areas,4
+305,,,,,,,,49_4,88,4,5 vowel areas,5
+306,,,,,,,,49_5,80,5,6 vowel areas,6
+307,,,,,,,,49_6,80,6,7-8 vowel areas,7-8
+308,,,,,,,,49_7,29,7,9 vowel areas,9
+309,V50,Total Consonants,The total number of consonants in the song.,Vowel-Consonant Relationship,Ordinal,Lomax and Trager (1961-2); Wood (2021),,50_NA,0,NA,Missing data,Missing data
+310,,,,,,,,50_1,24,1,1 consonant,1
+311,,,,,,,,50_2,26,2,2-3 consonants,2-3
+312,,,,,,,,50_3,19,3,4-5 consonants,4-5
+313,,,,,,,,50_4,25,4,6 consonants,6
+314,,,,,,,,50_5,110,5,7-8 consonants,7-8
+315,,,,,,,,50_6,114,6,9-10 consonants,9-10
+316,,,,,,,,50_7,20,7,11 consonants,11
+317,V51,Vowel-Consonant Proportion,The proportion of vowels to consonants in the song.,Vowel-Consonant Relationship,Ordinal,Lomax and Trager (1961-2); Wood (2021),,51_NA,1,NA,Missing data,Missing data
+318,,,,,,,,51_1,13,1,The song is dominated by vowels.,V
+319,,,,,,,,51_2,200,2,The song has more vowels than consonants.,cV
+320,,,,,,,,51_3,79,3,The song has about an equal number of vowels and consonants.,cv
+321,,,,,,,,51_4,44,4,The song has more consonants than vowels.,Cv
+322,,,,,,,,51_5,1,5,The song is dominated by consonants.,C
