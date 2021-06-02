@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/v/release/theglobaljukebox/phonotactics)
 # Phonotactics Data
 
 The phonotactics database contains vowel and consonant frequency patterns in singing. 
