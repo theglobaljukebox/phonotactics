@@ -78,4 +78,15 @@ def main():
     society_df.to_csv('raw/societies.csv', index=False)
     print("successful")
 
+    # Codings data
+    print("Downloading coding information into codings.csv")
+    SPREADSHEET_ID = '1oVJr_ZWmWSfrJ4gNLuCVUKqLG_cw3XdWgUYowbDfFNU'
+    RANGE_NAME = "'Sheet1'!A2:M323"
+    HEADER_RANGE = "'Sheet1'!A1:M1"
+    data, header = read_google_sheets(SPREADSHEET_ID, RANGE_NAME, HEADER_RANGE)
+    society_df = pd.DataFrame(data, columns = header[0])
+    society_df.to_csv('raw/codings.csv', index=False)
+    print("successful")
+
+
 main()
