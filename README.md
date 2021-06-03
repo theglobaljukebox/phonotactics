@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/v/release/theglobaljukebox/phonotactics)
 # Phonotactics Data
 
 Phonotactics is a dataset forming part of [The Global Jukebox](https://theglobaljukebox.org/#). 
