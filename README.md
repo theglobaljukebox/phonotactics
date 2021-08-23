@@ -1,5 +1,8 @@
-![](https://img.shields.io/github/v/release/theglobaljukebox/phonotactics)
 # Phonotactics Data
+
+
+[![DOI](https://zenodo.org/badge/343250520.svg)](https://zenodo.org/badge/latestdoi/343250520)
+
 
 Phonotactics is a dataset forming part of [The Global Jukebox](https://theglobaljukebox.org/#). 
 For full details including detailed description of the datasets and how to use and interpret them, see:
