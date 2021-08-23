@@ -55,7 +55,7 @@ def main():
 
     # Song metadata sheet
     print("Downloading phonotactic metadata into phonotactics.csv")
-    SPREADSHEET_ID = '1dsaXyleZH5DRSJtnig31W_nusedNfU4QU1KkY_ABhww'
+    SPREADSHEET_ID = '1TWAYOcDuDeOfxDRmopDJ4IZSjhwXZ-2rNPcLe32t1Mo'
     RANGE_NAME = "A2:AE339"
     HEADER_RANGE = "A1:AE1"
     data, header = read_google_sheets(SPREADSHEET_ID, RANGE_NAME, HEADER_RANGE)
